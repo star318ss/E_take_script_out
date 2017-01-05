@@ -1,4 +1,4 @@
-## writing VIAO
+## writing VAIO
 #reading script
 src1s_f=open("C:/Users/14rt0/Documents/English/MENTALIST_script/seazon1/The Mentalist - 1x01 - Pilot.HDTV.0TV.en.srt")
 data_s=src1s_f.readlines()
